@@ -7,6 +7,15 @@
   text-align:center;
   line-height:normal;
 }
+.shape {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
 .heading_1 {
   font-family:'ArialMT', 'Arial';
   font-weight:bold;
@@ -57,6 +66,8 @@
   color:#000000;
   text-align:left;
 }
+.table_cell {
+}
 .image {
   color:#000000;
 }
@@ -68,6 +79,9 @@
 }
 .ellipse {
 }
+.fontawesome {
+  color:#000000;
+}
 .heading_21 {
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
   font-weight:700;
@@ -75,5 +89,5 @@
   font-size:24px;
   text-align:left;
 }
-.shape {
+.shape1 {
 }
